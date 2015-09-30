@@ -1,0 +1,15 @@
+:end_of:
+  :login_test: 'End of tests regard to “Login”'
+  :profile_test: 'End of tests regard to fill “My Profile”'
+
+:error_message:
+  :erro_log_in: 'Could not log in. Please check.'
+  :profile_url_error: 'Could not navigate to "My Profile" page.'
+  :user_name_profile: 'User name is not been shown on "My Profile" page.'
+  :about_me_error: 'Could not fill "About Me" field in "My Profile" page'
+  :summary_qualification_error: 'Could not fill "Summary of Qualification" field in "My Profile" page'
+  :educ_cert_error: 'Could not add a new "Education / Certification" in "My Profile" page'
+  :experience_error: 'Could not add a new "Experience" in "My Profile" page'
+  :skill_error: 'Could not add a new "Skill" in "My Profile" page'
+  :language_error: 'Could not add a new "Language" in "My Profile" page'
+  :hobby_error: 'Could not add a new "Hobby" in "My Profile" page'

@@ -1,0 +1,13 @@
+:expected:
+  :home_page_url: '/#!/'
+  :profile_page_url: 'profile'
+  :user_name: 'RALFI SANTOS'
+  :about_me_filled: "Test - I'm a QA Engineer in Avenue Code."
+  :summary_qualification_filled: 'Test - fill Summary of Qualification'
+  :educ_cert_added: 'Test - Certification Name on - -'
+  :certification_authority_added: 'E.g. Certification Authority'
+  :position_added: 'Test - Position Name on - -'
+  :company_added: 'Test - Company Name'
+  :activity_description_added: 'Test - activity description of my job.'
+  :language_added: 'Test – English - '
+  :hobby_added: 'Test – Hobby - '

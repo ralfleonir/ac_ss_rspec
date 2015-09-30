@@ -1,0 +1,18 @@
+:log_in:
+  :user: 'user email'
+  :password: 'user password'
+
+:fill_data:
+  :about_me: "Test - I'm a QA Engineer in Avenue Code."
+  :summary_qualification: 'Test - fill Summary of Qualification'
+
+:add_data:
+  :certification_name: 'Test - Certification Name on - - '
+  :certification_authority: 'E.g. Certification Authority'
+  :position: 'Test - Position Name on - -'
+  :company: 'Test - Company Name'
+  :activity_description: 'Test - activity description of my job.'
+  :language: 'Test – English - '
+  :hobby: 'Test – Hobby - '
+  :skill_name: 'Test - Skill name'
+  :expertise: 2
