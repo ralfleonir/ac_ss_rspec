@@ -1,4 +1,4 @@
-This is Ralfi's automation code to aid in the manual tests against AC Superstars web site.
+AC Superstars web site e2e automation.
 
 This automation framework was built in rspec dsl using watir-webdriver as the browser control and page object pattern.
 
