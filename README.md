@@ -1,4 +1,4 @@
-AC Superstars web site e2e automation.
+website e2e automation.
 
 This automation framework was built in rspec dsl using watir-webdriver as the browser control and page object pattern.
 
